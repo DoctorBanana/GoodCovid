@@ -1,0 +1,41 @@
+head {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+body { font-family: sans-serif;
+    background-color:whitesmoke;
+    text-decoration-color: #0C0032;
+    
+}
+#header {background-color: #3500d3;
+        color: snow;
+        max-width: 2000px;
+        text-align: center;
+        padding: 2px 0;
+        box-shadow: #282828 2px 2px 5px;
+        margin-left: -3%;
+        margin-right: -3%;
+        margin-top: -1%;
+        padding-top: -1%;
+        padding-bottom: 1%;
+}
+#NavBar { display: flex;;
+    justify-content: center;
+    margin-top: -2%;
+    color: snow;
+}
+.Butons { margin-right: 50px;
+    margin-left: 50px;
+}
+
+a { border-radius: 1px;
+
+}
+
+}
+}
+#bottom {background-color: #282828;
+    color: snow;
+}
+#bn {margin-bottom: -18px;
+}
+
